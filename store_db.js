@@ -1,0 +1,138 @@
+window.STORE_DB = [
+  {
+    "id": 1,
+    "title": "ПК #1",
+    "price": 206517,
+    "image": "pc1.png",
+    "color": "#ff2d2d",
+    "specs": [
+      "AMD Ryzen 7 9850X3D",
+      "GeForce RTX 5080, 16GB",
+      "32GB (16GBx2) DDR5 5600",
+      "SSD M.2 1TB / Kingston NV3",
+      "Gigabyte B650M Gaming Plus WiFi",
+      "ID-Cooling FX360 INF",
+      "850W / MSI MAG A850GN",
+      "Hyte Y70 Touch"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ПК #2",
+    "price": 469335,
+    "image": "pc2.png",
+    "color": "#7cfc00",
+    "specs": [
+      "Intel Core Ultra 9 285K",
+      "GeForce RTX 5090, 32GB",
+      "64GB (32GBx2) DDR5 6000",
+      "SSD M.2 2TB / Kingston NV3",
+      "ASRock Z890 PRO-A",
+      "ID-Cooling FX360 INF",
+      "1000W / Super Flower SF-1000F14GE",
+      "Lian Li - O11 Dynamic EVO RGB"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ПК #3",
+    "price": 90018,
+    "image": "pc3.png",
+    "color": "#2e8bff",
+    "specs": [
+      "AMD Ryzen 5 7500F",
+      "GeForce RTX 5060, 8GB",
+      "32GB (16GBx2) DDR5 5600",
+      "SSD M.2 1TB / Kingston NV3",
+      "Asus Prime B650M-R",
+      "ID-Cooling SE-224-XTS ARGB",
+      "750W / be quiet! SYSTEM POWER 11",
+      "JONSBO D32 Black"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ПК #4",
+    "price": 155566,
+    "image": "pc4.png",
+    "color": "#ff3b3b",
+    "specs": [
+      "Intel Core Ultra 7 265KF",
+      "GeForce RTX 5070 Ti, 16GB",
+      "32GB (16GBx2) DDR5 5600",
+      "SSD M.2 1TB / Kingston NV3",
+      "ASRock Z890 PRO-A",
+      "ID-Cooling FX360 INF",
+      "750W / be quiet! SYSTEM POWER 11",
+      "GameMax Infinity Plus"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Сервер",
+    "price": 1000000,
+    "image": "pc5.png",
+    "color": "#ffd700",
+    "specs": [
+      "2x AMD EPYC 9354, 64 ядра",
+      "256GB (8x32GB) DDR5 ECC",
+      "4x SSD NVMe 3.84TB, RAID",
+      "Supermicro H13DSH",
+      "Серверне охолодження",
+      "2x 1200W / резервне живлення",
+      "Корпус 4U для стійки",
+      "Віддалене керування IPMI"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Бюджетний ПК",
+    "price": 50000,
+    "image": "pc6.png",
+    "color": "#b04dff",
+    "specs": [
+      "AMD Ryzen 5 7600",
+      "GeForce RTX 5060 Ti, 16GB",
+      "32GB (16GBx2) DDR5 5600",
+      "SSD M.2 1TB / Kingston NV3",
+      "Gigabyte B650M Gaming Plus WiFi",
+      "ID-Cooling SE-224-XTS ARGB",
+      "650W / be quiet! SYSTEM POWER 11",
+      "Zalman Z3 Iceberg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Робочий ПК",
+    "price": 200000,
+    "image": "pc7.png",
+    "color": "#00e5ff",
+    "specs": [
+      "AMD Ryzen 9 9950X, 16 ядер",
+      "NVIDIA RTX 4000 Ada, 20GB",
+      "128GB (4x32GB) DDR5 5600",
+      "SSD M.2 2TB + SSD 4TB",
+      "ASUS ProArt X870E-Creator WiFi",
+      "ID-Cooling FX360 INF",
+      "1000W / MSI MAG A1000GL",
+      "Fractal Design Define 7"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Ігровий ПК",
+    "price": 15000,
+    "image": "pc8.png",
+    "color": "#ff8a00",
+    "specs": [
+      "AMD Ryzen 5 5600",
+      "GeForce GTX 1650, 4GB",
+      "16GB (8GBx2) DDR4 3200",
+      "SSD 512GB / Kingston NV3",
+      "MSI B550M PRO-VDH WiFi",
+      "AMD Wraith Stealth",
+      "500W / Chieftec",
+      "Zalman S2"
+    ]
+  }
+];
